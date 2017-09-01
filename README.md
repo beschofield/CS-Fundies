@@ -1,3 +1,2 @@
-# a README
-# update with folder names and locations of things
+# update this with folder names and locations of things
 # maybe a schedule
