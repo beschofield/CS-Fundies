@@ -4,53 +4,37 @@
 
 ## Problem
 
-Write a simple calculator program.
-Each operation will have its own function. The main function will simply be used to call the various operations.
-Use nested for loops to print out the following shape, dependent on the row number (here it is 5 rows):
+Write a simple calculator program, working with two inputted integers.
 
-```
-xxxxx
- xxxx
-  xxx
-   xx
-    x
-```
-    
-For 5 rows, Row 1 will contain 5 x's. 
-Row 2 will begin with one space, and then contain 4 x's. 
-This pattern continues similarly, with Row N containing (N-1) spaces at the beginning of the line, and ending with 1 x.
+Each operation will have its own function: addition, subtraction, multiplication, and division.
 
-There are several ways to accomplish this with nested for loops. Simply find one.
+The main function will simply be used to call the various operations.
+You should have the user input the name of the desired operation and the two integers. (the order of this is trivial)
 
-This code must be dynamic, and independent of the number of rows. 
-Do not simply print a static number of x's.
+Do not worry about handling unusual input. You can safely assume that the user will desire two integers in all cases.
 
 ## Examples
 
 ### Input
 ```
 3
+2
+addition
 ```
 
 ### Output
 ```
-xxx
- xx
-  x
+5
 ```
 
 ### Input
 ```
-7
+9
+2
+division
 ```
 
 ### Output
 ```
-xxxxxxx
- xxxxxx
-  xxxxx
-   xxxx
-    xxx
-     xx
-      x
+4
 ```
