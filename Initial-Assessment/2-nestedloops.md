@@ -4,7 +4,7 @@
 
 ## Problem
 
-Write a program that prompts the user for a desired number of rows.
+Write a program that prompts the user for a desired number of rows. See the provided template for guidance on the user input.
 Use nested for loops to print out the following shape, dependent on the row number (here it is 5 rows):
 
 ```
