@@ -4,7 +4,8 @@
 
 ## Problem
 
-Write a program that prompts the user for a desired number of rows.
+Write a simple calculator program.
+Each operation will have its own function. The main function will simply be used to call the various operations.
 Use nested for loops to print out the following shape, dependent on the row number (here it is 5 rows):
 
 ```
