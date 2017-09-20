@@ -4,7 +4,7 @@
 
 ## Problem
 
-TBD
+Determine if an integer is a prime number.
 
 ## Examples
 
