@@ -1,4 +1,4 @@
-# 3: Nested Loops
+# 3: Basic Functions
 
 *Note: use the C++ reference guide as your only external resource (http://www.cplusplus.com/reference/)*
 
