@@ -2,7 +2,6 @@
 // If you like std::cin or stdin better, absolutely go for one of those.
 // I'm also using printf. The printf function belongs to the stdio.h header, and std::cout belongs to the iostream header. It does not matter which one you use here.
 
-
 #include <stdio.h>
 
 int main ()
