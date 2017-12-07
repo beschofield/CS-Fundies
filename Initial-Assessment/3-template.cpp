@@ -8,7 +8,9 @@ int main ()
 
 int addition(int a, int b)
 {
-  // TODO: fill this in with your own code and use it to add the other operations
+  // TODO: fill this in with your own code
 
   return -1;
 }
+
+//TODO: add the other operations
