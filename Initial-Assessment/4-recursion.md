@@ -14,10 +14,14 @@ Use the definition of the Fibonacci sequence (https://en.wikipedia.org/wiki/Fibo
 
 ### Input
 ```
-TBD
+3
+10
+1
 ```
 
 ### Output
 ```
-TBD
+1
+34
+0
 ```
